@@ -10,3 +10,4 @@ As a reminder, I have strong reservations about the use of GenAI and have writte
 ## Syllabus ##
 This is the [syllabus link](files/3023Syllabus.pdf). Last updated 6 September 2026.
 ## Community Agreements ##
+- be clear about "ouches" and call people in.
