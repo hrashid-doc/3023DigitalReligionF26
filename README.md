@@ -11,3 +11,10 @@ As a reminder, I have strong reservations about the use of GenAI and have writte
 This is the [syllabus link](files/3023Syllabus.pdf). Last updated 21 September 2026.
 ## Community Agreements ##
 - be clear about "ouches" and call people in.
+- ask questions
+- respectful disagreement
+- [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule)
+- hear to understand, not to respond
+- For Prof. Rashid
+-   clear expectations
+-   clear feedback
