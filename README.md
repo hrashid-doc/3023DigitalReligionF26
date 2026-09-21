@@ -16,5 +16,5 @@ This is the [syllabus link](files/3023Syllabus.pdf). Last updated 21 September 2
 - [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule)
 - hear to understand, not to respond
 - For Prof. Rashid
--   clear expectations
--   clear feedback
+    -   clear expectations
+    -   clear feedback
