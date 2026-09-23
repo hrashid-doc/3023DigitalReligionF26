@@ -18,3 +18,5 @@ This is the [syllabus link](files/3023Syllabus.pdf). Last updated 21 September 2
 - For Prof. Rashid
     -   clear expectations
     -   clear feedback
+## Rubrics ##
+- [Mapping Project Rubric](files/Mapping_Project_Rubric.pdf)
