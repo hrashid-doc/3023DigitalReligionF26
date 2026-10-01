@@ -20,4 +20,4 @@ This is the [syllabus link](files/3023Syllabus.pdf). Last updated 21 September 2
     -   clear feedback
 ## Rubrics ##
 - [Mapping Project Rubric](files/Mapping_Project_Rubric.pdf)
--     [Mapping Resource from DHC](files/Rashid_Map-Tools-Tipsheet_Fall2026.pdf)
+    - [Mapping Resource from DHC](files/Rashid_Map-Tools-Tipsheet_Fall2026.pdf)
