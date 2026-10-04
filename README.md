@@ -8,7 +8,7 @@ Our core methodological approach is Critical Religious Literacy. While we delve 
 ### A Note on GenAI ###
 As a reminder, I have strong reservations about the use of GenAI and have written them up on the [this post on Medium](https://islamoyankee.medium.com/extended-ai-policy-661379761fc2).
 ## Syllabus ##
-This is the [syllabus link](files/3023Syllabus.pdf). Last updated 21 September 2026.
+This is the [syllabus link](files/3023Syllabus.pdf). Last updated 4 October 2026.
 ## Community Agreements ##
 - be clear about "ouches" and call people in.
 - ask questions
