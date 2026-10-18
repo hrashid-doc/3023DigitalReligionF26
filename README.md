@@ -23,4 +23,5 @@ This is the [syllabus link](files/3023Syllabus.pdf). Last updated 4 October 2026
     - [Mapping Resource from DHC](files/Rashid_Map-Tools-Tipsheet_Fall2026.pdf)
 - [Mini-Doc Rubric](files/Mini-Documentary_Project_Rubric.pdf)
     -  [Mini-Doc Resources from Media Center](files/Mini-Doc_Ref_Links.pdf)
+    -  [DaVinci Resolve Guide from Media Center](files/DaVinci_Resolve_Guide.pdf)
 - [Data Viz Project Rubric](files/Data_Viz_Project_Rubric.pdf)
