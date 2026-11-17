@@ -25,3 +25,4 @@ This is the [syllabus link](files/3023Syllabus.pdf). Last updated 4 October 2026
     -  [Mini-Doc Resources from Media Center](files/Mini-Doc_Ref_Links.pdf)
     -  [DaVinci Resolve Guide from Media Center](files/DaVinci_Resolve_Guide.pdf)
 - [Data Viz Project Rubric](files/Data_Viz_Project_Rubric.pdf)
+- [Portfolio Rubric](files/Digital_Religion_Portfolio_Rubric.pdf)
