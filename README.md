@@ -26,4 +26,4 @@ This is the [syllabus link](files/3023Syllabus.pdf). Last updated 4 October 2026
     -  [DaVinci Resolve Guide from Media Center](files/DaVinci_Resolve_Guide.pdf)
 - [Data Viz Project Rubric](files/Data_Viz_Project_Rubric.pdf)
 - [Portfolio Rubric](files/Digital_Religion_Portfolio_Rubric.pdf)
--     [WordPress Guide from DHC](files/Wordpress-Handout_Fall2026.pdf)
+    - [WordPress Guide from DHC](files/Wordpress-Handout_Fall2026.pdf) 
